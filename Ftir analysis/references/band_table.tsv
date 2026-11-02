@@ -1,0 +1,141 @@
+hi	lo	assignment	mode	intensity	shape	category	diagnostic	requires	note
+3750	3730	Si–OH isolado (silanol livre)	O–H str	m	sharp	silica/inorganic	2		sílica desidratada; some com adsorção de água
+3700	3610	O–H estrutural (argilas, hidróxidos: caulinita 3695/3620, brucita ~3698)	O–H str	m	sharp	inorganic	2		bandas finas e múltiplas = OH de rede, não água
+3650	3580	O–H livre (álcool/fenol diluído ou gás)	O–H str	m	sharp	alcohol/phenol	2		só em solução diluída/fase gasosa
+3550	3200	O–H em ligação de H (álcool, fenol, polissacarídeo)	O–H str	s	broad	alcohol/phenol	2		confirmar C–O 1260-1000; água adsorvida cai na mesma região
+3600	3000	H2O (umidade, água de hidratação, KBr úmido ~3440)	O–H str	s	broad	water/artifact	1		acompanhar com δ H–O–H 1650-1620; pastilha de KBr absorve água
+3300	2500	O–H de ácido carboxílico (dímero)	O–H str	s	very broad	carboxylic acid	3	1725-1680:s	envelope muito largo sobreposto ao C–H; exige C=O ~1710
+3500	3300	N–H amina primária (2 bandas: ass ~3400, sim ~3300)	N–H str	m	sharp-medium	amine	3		dupla = NH2; amina secundária dá 1 banda; terciária nenhuma
+3360	3300	N–H amina secundária (1 banda)	N–H str	w-m	medium	amine	2		mais fraca e mais fina que O–H
+3370	3150	N–H amida primária (2 bandas ~3350/3180)	N–H str	m-s	medium	amide	2	1690-1620	com amida I ~1680-1650 e δNH2 ~1640-1620
+3330	3260	N–H amida secundária / amida A (proteínas, poliamidas ~3300)	N–H str	m-s	medium	amide	2	1690-1620	com amida I ~1640 e amida II ~1540
+3200	2400	N–H+ de sal de amina/amônio orgânico	N–H str	s	very broad	amine salt	2		envelope largo com bandas de combinação ~2000
+3300	3030	NH4+ inorgânico	N–H str	s	broad	inorganic	2	1430-1390:m	confirmar δ NH4+ ~1400 (fina)
+3340	3260	≡C–H alquino terminal	C–H str	s	sharp	alkyne	3	2140-2100	banda fina e forte; confirmar C≡C 2140-2100
+3100	3000	C–H aromático	C–H str	w-m	sharp	aromatic	2	1625-1575|1520-1470	acima de 3000 = C(sp2)–H; confirmar anel ~1600/1500 e oop 900-680
+3100	3010	=C–H alceno (=CH2 ~3080)	C–H str	m	sharp	alkene	2	1680-1620|1000-880	confirmar C=C 1680-1620 e oop 1000-650
+2975	2950	CH3 estiramento assimétrico (~2962)	C–H str	s	sharp	aliphatic	1		abaixo de 3000 = C(sp3)–H
+2935	2915	CH2 estiramento assimétrico (~2926; PE 2915)	C–H str	s	sharp	aliphatic	1		
+2885	2865	CH3 estiramento simétrico (~2872)	C–H str	m	sharp	aliphatic	1		
+2865	2840	CH2 estiramento simétrico (~2853; PE 2848)	C–H str	m	sharp	aliphatic	1		
+2835	2815	C–H de O–CH3 (metoxila)	C–H str	m	sharp	ether/ester	2		ombro baixo característico de metil éster/éter
+2830	2695	C–H de aldeído (dubleto de Fermi ~2820 e ~2720)	C–H str	w-m	sharp	aldehyde	3	1740-1685	a banda ~2720 isolada é muito diagnóstica; exige C=O 1740-1685
+2820	2760	Bandas de Bohlmann (N–CH2/N–CH3)	C–H str	w	sharp	amine	1		
+2600	2550	S–H tiol	S–H str	w	sharp	thiol	3		fraca mas em região limpa
+2440	2350	P–H	P–H str	m	sharp	phosphorus	2		
+2400	2280	CO2 atmosférico (dubleto 2360/2340)	C=O str	v	doublet	artifact	0		diferença de CO2 entre fundo e amostra; não é da amostra
+2280	2240	N=C=O isocianato	N=C=O str	vs	broad	isocyanate	2		muito forte; some com a cura de poliuretano
+2260	2210	C≡N nitrila (alifática ~2250, aromática ~2230)	C≡N str	m	sharp	nitrile	3		PAN, ABS, NBR ~2240
+2260	2190	C≡C alquino dissubstituído	C≡C str	w	sharp	alkyne	2		pode ser ausente se simétrico
+2140	2100	C≡C alquino terminal	C≡C str	m	sharp	alkyne	2	3340-3260	com ≡C–H 3300
+2170	2080	N3 azida (ass)	N=N=N str	s	sharp	azide	2		
+2140	1990	N=C=S isotiocianato / SCN-	N=C=S str	vs	broad	isothiocyanate	2		tiocianato inorgânico ~2060 mais fino
+2250	2100	Si–H	Si–H str	s	sharp	silicon	2		
+2200	2000	C≡N em cianeto metálico (azul da Prússia ~2080)	C≡N str	s	sharp	inorganic	2		
+2150	1850	C≡O em carbonil metálico (terminal >2000, ponte <1900)	C≡O str	s	sharp	organometallic	2		
+2300	1900	Ruído/absorção do cristal de diamante (ATR)	—	v	noisy	artifact	0		região ruidosa em ATR de diamante; não interpretar bandas fracas aqui
+2000	1650	Sobretons/combinações aromáticas (padrão de substituição)	overtone	w	sharp	aromatic	1	1625-1575|1520-1470	padrão de 'dedos' fracos indica substituição do anel
+1870	1740	C=O anidrido (2 bandas ~60 cm-1 apart; cíclico 1860/1780)	C=O str	s	sharp	anhydride	3		a de maior número de onda é a mais forte em anidrido acíclico
+1815	1770	C=O haleto de acila (cloreto ~1800)	C=O str	vs	sharp	acyl halide	2		
+1820	1740	C=O carbonato orgânico (cíclico 1820-1790; acíclico ~1745) / policarbonato ~1770	C=O str	vs	sharp	carbonate ester	2		PC (bisfenol A) 1770 + 1230-1160
+1795	1760	C=O γ-lactona (anel de 5) / β-lactama ~1760	C=O str	vs	sharp	lactone	2		
+1775	1750	C=O éster vinílico/arílico	C=O str	vs	sharp	ester	2	1300-1150	PVAc ~1735 é éster alquílico; acetato de fenila ~1765
+1750	1730	C=O éster saturado (~1740; triglicerídeo ~1745)	C=O str	vs	sharp	ester	3	1300-1150	'regra dos três': C=O ~1740 + C–O 1300-1150 + 1100-1000
+1730	1715	C=O éster α,β-insaturado/aromático (acrilato ~1725, PET ~1715)	C=O str	vs	sharp	ester	3	1300-1150	
+1740	1720	C=O aldeído alifático	C=O str	vs	sharp	aldehyde	2	2830-2695	exige C–H 2820/2720
+1710	1685	C=O aldeído aromático/conjugado	C=O str	vs	sharp	aldehyde	2	2830-2695	exige C–H 2820/2720
+1725	1705	C=O cetona saturada (~1715)	C=O str	vs	sharp	ketone	2		sem O–H largo e sem C–O forte (≠ ácido/éster)
+1700	1660	C=O cetona conjugada/aril cetona (~1690); quinona 1690-1655	C=O str	vs	sharp	ketone	2		
+1725	1700	C=O ácido carboxílico (dímero ~1710)	C=O str	vs	sharp-medium	carboxylic acid	3	3300-2500:br|960-900	exige O–H 3300-2500 muito largo e δ O–H ~1420/~930
+1700	1680	C=O ácido carboxílico aromático/conjugado	C=O str	vs	sharp-medium	carboxylic acid	2	3300-2500:br	
+1740	1690	C=O uretano (livre ~1730, ligado por H ~1700)	C=O str	vs	sharp	urethane	3	3400-3250	PU: com N–H 3330 e amida II ~1530
+1690	1630	C=O ureia	C=O str	s	sharp	urea	2		
+1790	1680	C=O imida (2 bandas: ~1780 fraca, ~1720 forte; poliimida 1780/1720)	C=O str	vs	sharp	imide	3		poliimida: + C–N 1380
+1690	1630	Amida I (C=O; amida primária ~1680-1650, secundária ~1650-1640)	C=O str	vs	sharp-medium	amide	3	3500-3150|1570-1510:m	PA/nylon ~1635; com amida II ~1540
+1660	1650	Amida I em proteína: α-hélice	C=O str	s	component	protein	2		só por deconvolução/2ª derivada
+1640	1620	Amida I em proteína: folha β (antiparalela também ~1690-1680)	C=O str	s	component	protein	2		agregados ~1620-1610
+1648	1640	Amida I em proteína: estrutura desordenada	C=O str	s	component	protein	1		
+1690	1660	Amida I em proteína: voltas β (turns)	C=O str	m	component	protein	1		
+1650	1620	δ NH2 amida primária (amida II de amida primária)	N–H bend	m-s	medium	amide	2	3370-3150	
+1570	1510	Amida II (δ N–H + ν C–N, amida secundária/proteína ~1545)	N–H bend	s	medium	amide	3	1690-1630	ausente em amidas terciárias
+1350	1200	Amida III (proteína ~1300-1230)	mixed	w-m	medium	amide/protein	1	1690-1630	
+1690	1620	C=N imina/oxima/base de Schiff	C=N str	w-m	sharp	imine	2		
+1680	1620	C=C alceno (vinil ~1640; fraco se simétrico)	C=C str	w-m	sharp	alkene	2	3100-3010|1000-880	
+1650	1620	δ H–O–H água	H–O–H bend	m	medium	water/artifact	1	3600-3000:br	acompanha O–H 3600-3000; não confundir com amida I/C=C
+1650	1580	δ NH2 amina primária (tesoura)	N–H bend	m	medium	amine	2	3500-3300	
+1625	1575	C=C anel aromático (~1600, frequentemente dupla 1600/1580)	ring str	m	sharp	aromatic	2	1520-1470|3100-3000	PS 1601; intensifica com conjugação/substituinte polar
+1520	1470	C=C anel aromático (~1500; PS 1493, bisfenol A ~1510)	ring str	m-s	sharp	aromatic	2	1625-1575|3100-3000	
+1610	1550	COO- carboxilato ass (sais, complexos metálicos)	COO str	vs	medium	carboxylate	3	1440-1335	Δ(ass−sim) indica modo de coordenação (mono/bidentado/ponte)
+1440	1335	COO- carboxilato sim	COO str	s	medium	carboxylate	2	1610-1550	
+1570	1500	NO2 nitro ass (alifático ~1550; aromático ~1525)	N–O str	vs	sharp	nitro	3	1390-1330	par com 1385-1340
+1390	1330	NO2 nitro sim	N–O str	s	sharp	nitro	2	1570-1500	
+1660	1620	O–NO2 nitrato orgânico ass (nitrocelulose ~1650)	N–O str	vs	sharp	nitrate ester	2	1285-1270:s	par com ~1280 e ~840
+1290	1270	O–NO2 nitrato orgânico sim	N–O str	s	sharp	nitrate ester	2	1660-1620:s	
+1475	1445	δ CH2 tesoura / δas CH3 (~1465-1450; PE 1472/1462)	C–H bend	m	sharp	aliphatic	1		
+1390	1365	δs CH3 (guarda-chuva ~1375); dupla 1385/1365 = isopropila/gem-dimetil	C–H bend	m	sharp	aliphatic	2	2975-2950|2885-2865	PP: 1376 forte
+1440	1395	δ O–H no plano (ácido ~1420, álcool ~1350-1260)	O–H bend	w-m	broad	alcohol/acid	1	3600-2500:br	
+1360	1250	C–N amina aromática	C–N str	s	medium	amine	2	3500-3300|1625-1575	
+1250	1020	C–N amina alifática	C–N str	m	medium	amine	1	3500-3300	
+1320	1210	C–O ácido carboxílico	C–O str	s	medium	carboxylic acid	2	1725-1680:s	
+1300	1150	C–O–C éster (ass; acetato ~1240, benzoato/PET ~1270-1240, acrilato ~1160)	C–O str	vs	broad-medium	ester	2	1775-1715	
+1150	1000	O–C–C éster (sim)	C–O str	s	medium	ester	1	1775-1715	
+1150	1085	C–O–C éter alifático (~1110-1120)	C–O str	vs	medium	ether	2		PEG/PEO ~1100 forte
+1275	1200	C–O aril alquil éter / C–O fenol (~1230)	C–O str	vs	medium	ether/phenol	2	1625-1575|1520-1470	epóxi BPA ~1245, fenol ~1230-1200
+1075	1020	C–O aril alquil éter (sim)	C–O str	m	medium	ether	1	1625-1575|1520-1470	
+1210	1140	C–O álcool terciário (~1150)	C–O str	s	medium	alcohol	1	3600-3150:br	
+1125	1085	C–O álcool secundário (~1100)	C–O str	s	medium	alcohol	1	3600-3150:br	
+1075	1000	C–O álcool primário (~1050; celulose/polissacarídeos 1060-1030)	C–O str	vs	medium	alcohol/carbohydrate	2	3600-3150:br	
+1170	1140	C–O–C glicosídico (polissacarídeos ~1160)	C–O–C str	m	medium	carbohydrate	2	3600-3150:br	
+950	810	Anel epóxido (oxirano terminal ~915; cis ~830)	ring def	m	sharp	epoxide	3		915 some durante a cura de resina epóxi
+1280	1230	Anel epóxido (respiração)	ring str	m-s	sharp	epoxide	1	950-810	
+1400	1000	C–F (CF2 ~1200/~1150; PTFE)	C–F str	vs	broad	fluoride	3		bandas muito fortes; PTFE 1200 + 1150
+850	550	C–Cl (PVC ~690-610)	C–Cl str	s	medium	halide	2		
+690	515	C–Br	C–Br str	s	medium	halide	1		
+600	500	C–I	C–I str	s	medium	halide	1		
+1070	1030	S=O sulfóxido (DMSO ~1050)	S=O str	vs	sharp	sulfur	2		
+1350	1300	SO2 sulfona/sulfonamida ass	S=O str	vs	sharp	sulfur	2	1170-1120	par com 1160-1120
+1170	1120	SO2 sulfona/sulfonamida sim	S=O str	vs	sharp	sulfur	2	1350-1300	
+1250	1140	SO3- sulfonato ass (sais; SDS ~1220)	S=O str	vs	broad	sulfonate	2	1070-1030	par com 1070-1030
+1070	1030	SO3- sulfonato sim	S=O str	s	sharp	sulfonate	1	1250-1140	
+1250	1020	C=S tiocarbonila	C=S str	s	medium	sulfur	1		acoplado; pouco diagnóstico isolado
+710	570	C–S	C–S str	w	medium	sulfur	1		
+1300	1240	P=O (éster de fosfato ~1260; óxido de fosfina ~1190)	P=O str	vs	medium	phosphorus	2		
+1050	970	P–O–C alifático	P–O str	vs	broad	phosphorus	2		
+2700	2100	P–O–H (ácido fosfórico/fosfonato)	O–H str	m	very broad	phosphorus	1	1300-900	
+1260	1220	PO2- ass (fosfolipídios, ácidos nucleicos ~1240)	P=O str	s	medium	biological	2	1100-1070	
+1100	1070	PO2- sim (ácidos nucleicos/fosfolipídios ~1085)	P=O str	s	medium	biological	1	1260-1220	
+1120	1000	PO4(3-) ν3 (hidroxiapatita ~1090/1030)	P–O str	vs	broad	phosphate	3	610-550	par com ν4 ~600/560
+970	955	PO4(3-) ν1 (HAp ~962)	P–O str	w	sharp	phosphate	2	1120-1000	
+610	550	PO4(3-) ν4 dubleto (HAp 603/565)	O–P–O bend	s	sharp	phosphate	3	1120-1000	dubleto bem resolvido indica fase cristalina
+1265	1255	Si–CH3 (silicone/PDMS ~1260)	CH3 def	s	sharp	silicone	3	820-780	banda fina; contaminação de graxa de silicone também gera
+1130	1000	Si–O–Si ass (sílica ~1080 c/ ombro ~1200; PDMS 1090+1020; silicatos ~1000-1030)	Si–O str	vs	broad	silica/silicate	3	480-440|820-780	
+960	930	Si–OH (silanol ~950) / Si–O- não-ponte	Si–O str	m	medium	silica	2	1130-1000	
+820	780	Si–O–Si sim (~800) / Si–CH3 rock (PDMS ~800)	Si–O str	m	sharp	silica/silicone	2	1130-1000|1265-1255	
+480	440	δ O–Si–O (~460)	Si–O bend	s	medium	silica	2	1130-1000	
+1520	1380	CO3(2-) ν3 (calcita ~1420; muito larga)	C–O str	vs	broad	carbonate	3	890-850|750-695	par com ν2 ~875 e ν4 ~712
+890	850	CO3(2-) ν2 (calcita ~875, aragonita ~855)	out-of-plane	m	sharp	carbonate	3	1520-1380	
+750	695	CO3(2-) ν4 (calcita 712; aragonita 713+700; vaterita 745)	in-plane bend	w-m	sharp	carbonate	2	1520-1380	posição distingue polimorfos
+1160	1080	SO4(2-) ν3 (gipsita 1140/1115)	S–O str	vs	broad	sulfate	3	680-590	par com ν4 680-600
+680	590	SO4(2-) ν4 (gipsita 669/602)	O–S–O bend	m	sharp	sulfate	2	1160-1080	
+1410	1340	NO3- ν3 (1384 fina = KNO3 contaminando KBr)	N–O str	vs	sharp	nitrate	2		1384 isolada e fina em pastilha de KBr é quase sempre artefato
+840	815	NO3- ν2	out-of-plane	m	sharp	nitrate	1	1410-1340	
+1430	1390	δ NH4+ (~1400)	N–H bend	s	sharp	inorganic	2	3300-3030:br	
+920	905	δ Al–OH (argilas, caulinita ~915)	Al–OH bend	m	sharp	clay	2	3700-3610	
+800	400	M–O de óxidos metálicos (ZnO ~430-500; TiO2 larga <800; α-Fe2O3 ~540/470; Fe3O4 ~580)	M–O str	s	broad	metal oxide	2		confirmar fase por DRX; ATR de diamante corta abaixo de ~525
+770	730	C–H fora do plano, anel monossubstituído (+ 710-690)	C–H oop	s	sharp	aromatic	2	1625-1575|1520-1470	PS 756 + 698
+710	690	Deformação do anel monossubstituído (~700)	ring bend	s	sharp	aromatic	2	1625-1575|1520-1470	
+770	735	C–H fora do plano, anel orto-dissubstituído	C–H oop	s	sharp	aromatic	2	1625-1575|1520-1470	
+810	750	C–H fora do plano, anel meta-dissubstituído (+ 900-860, 710-690)	C–H oop	s	sharp	aromatic	1	1625-1575|1520-1470	
+860	800	C–H fora do plano, anel para-dissubstituído (~830)	C–H oop	s	sharp	aromatic	2	1625-1575|1520-1470	bisfenol A ~830
+995	985	=CH oop vinila (+ 915-905)	C–H oop	s	sharp	alkene	2	1680-1620|3100-3010	
+915	905	=CH2 oop vinila	C–H oop	s	sharp	alkene	2	1680-1620|3100-3010	cuidado: coincide com epóxido terminal e Al–OH
+980	960	=CH oop alceno trans	C–H oop	s	sharp	alkene	2	1680-1620|3100-3010	
+730	665	=CH oop alceno cis	C–H oop	m-s	broad	alkene	1	1680-1620|3100-3010	
+895	885	=CH2 oop vinilideno	C–H oop	s	sharp	alkene	2	1680-1620|3100-3010	
+840	800	=CH oop alceno trissubstituído	C–H oop	m	sharp	alkene	1	1680-1620|3100-3010	
+730	715	ρ CH2 cadeia (CH2)n n≥4 (~720; PE dubleto 730/719 cristalino)	CH2 rock	w-m	sharp	aliphatic	2	2935-2915	dubleto = PE cristalino
+960	900	δ O–H fora do plano de ácido carboxílico (dímero ~930)	O–H oop	m	broad	carboxylic acid	2	1725-1680:s	
+910	665	δ N–H wag amina primária/secundária	N–H wag	m	broad	amine	1	3500-3300	
+680	655	CO2 atmosférico (δ ~667)	bend	v	sharp	artifact	0		
+3950	3500	Vapor d'água (linhas finas e numerosas)	rot-vib	v	sharp lines	artifact	0		linhas finas em série = vapor, não amostra; purgar ou subtrair
+1950	1300	Vapor d'água (linhas finas e numerosas)	rot-vib	v	sharp lines	artifact	0		ver acima
